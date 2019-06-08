@@ -1,5 +1,10 @@
 # Ligaturizer #
 
+```diff
++ This fork of Ligaturizer changes the `ligaturize.py` script to remove the fi and fl ligatures. 
++ I am using Ligaturizer to add ligatures to Meslo LG M, but the standard script changes fi and fl which looks bad.
+```
+
 ![](images/banner.png)
 
 **Add ligatures to any coding font!**
